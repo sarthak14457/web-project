@@ -1,4 +1,4 @@
-const API_BASE = "https://web-project-server-xu4m.onrender.com//api";
+const API_BASE = "https://web-project-server-xu4m.onrender.com/api";
 const form = document.getElementById("loginForm");
 const errorMsg = document.getElementById("errorMsg");
 const successMsg = document.getElementById("successMsg");
