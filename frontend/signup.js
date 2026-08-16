@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:3001/api";
+const API_BASE = "https://web-project-server-xu4m.onrender.com/api";
 
 const form = document.getElementById("signupForm");
 const errorMsg = document.getElementById("errorMsg");
