@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:3001/api";
+const API_BASE = "https://web-project-server-xu4m.onrender.com/api";
 
 const params = new URLSearchParams(window.location.search);
 const token = params.get("token");
