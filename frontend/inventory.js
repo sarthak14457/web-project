@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:3001/api";
+const API_BASE = "https://web-project-server-xu4m.onrender.com/api";
 
 // Token comes from the URL (set by login.html on redirect) and is kept in memory for this page only.
 const params = new URLSearchParams(window.location.search);
